@@ -1,4 +1,7 @@
 You will firstly want to change the pathways of the text files in classes CRScanner line 26 and TicketGenerator line 16
+Additionally, you will want to either remove the package Assignement2SDAAGroup17; located at the top of each file and run it in the SRC
+
+Or create a package called Assignement2SDAAGroup17 and store all the files in the code folder there
 
 Once that has been adjusted you want to run the program from the CashRegisterDriverApp
 
