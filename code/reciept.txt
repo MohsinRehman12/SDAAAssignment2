@@ -1,0 +1,8 @@
+The Total was $6.0 
+ The items were: 
+Product name:APPLE Code=1001:, price=1.0}
+Product name:APPLE Code=1001:, price=1.0}
+Product name:BANANA Code=1002:, price=2.0}
+Product name:JOLLY RANCHERS Code=1004:, price=2.0}
+Unknown Product
+
